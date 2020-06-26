@@ -220,7 +220,6 @@ PLATFORMS
 DEPENDENCIES
   bootsnap (>= 1.2)
   coveralls
-  devise
   devise_token_auth
   factory_bot_rails
   listen (~> 3.0.5)
@@ -236,7 +235,7 @@ DEPENDENCIES
   spring-watcher-listen (~> 2.0.0)
 
 RUBY VERSION
-   ruby 2.6.3p62
+   ruby 2.5.1p57
 
 BUNDLED WITH
    2.1.4
